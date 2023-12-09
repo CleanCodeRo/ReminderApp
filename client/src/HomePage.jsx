@@ -7,7 +7,7 @@ import {
   Button,
 } from "@material-tailwind/react";
 
-function App() {
+function HomePage() {
 
   return (
     <Card className="mt-6 w-96">
@@ -34,4 +34,4 @@ function App() {
   )
 }
 
-export default App
+export default HomePage;
